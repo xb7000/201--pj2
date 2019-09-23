@@ -265,22 +265,54 @@ a:hover {
 	padding: 100px 0 70px;
 }
 #intro {
-	padding: 100px 0 70px;
+	padding: 200px 0 170px;
 }
 #intro h2 {
 	font-size: 40px;
 	font-weight: 300;
 	margin: 15px 0 15px 0;
 }
+#in2 {
+	padding: 200px 0 170px;
+}
+#in2 h2 {
+	font-size: 40px;
+	font-weight: 300;
+	margin: 15px 0 15px 0;
+}
+#in3 {
+	padding: 200px 0 170px;
+}
+#in3 h2 {
+	font-size: 40px;
+	font-weight: 300;
+	margin: 15px 0 15px 0;
+}
+#in4 {
+	padding: 200px 0 170px;
+}
+#in4 h2 {
+	font-size: 40px;
+	font-weight: 300;
+	margin: 15px 0 15px 0;
+}
+#in5 {
+	padding: 200px 0 170px;
+}
+#in5 h2 {
+	font-size: 40px;
+	font-weight: 300;
+	margin: 15px 0 15px 0;
+}
 .intro-pic {
 	width:50%;
-	margin-top: 120px;
+	margin-top: 30px;
 }
 .btn-section {
 	padding-top: 20px;
 }
 #feature {
-	padding-top: 100px;
+	padding-top: 90px;
 	background: #2B2B2B;
 }
 #feature h2 {
@@ -315,7 +347,7 @@ a:hover {
 }
 .feature-img{
 		margin: 0 320px 90px;
-	width: 200%;
+	width: 100%;
 }
 #feature .inner {
 	float: left;
